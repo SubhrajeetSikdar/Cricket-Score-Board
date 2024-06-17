@@ -18,6 +18,47 @@ This C program is designed to manage cricket match statistics, including details
 
    ```bash
    gcc cricket_score.c -o cricket_score
+# Cricket Score Management System
+
+This program allows users to input and manage cricket match statistics for batsmen and bowlers. It provides various functionalities to view individual player details, match summary, and records.
+
+## Features
+
+1. **Input Data**:
+   - Enter details for multiple batsmen (name, runs, balls faced, etc.).
+   - Enter details for multiple bowlers (name, runs given, overs bowled, etc.).
+
+2. **Menu Options**:
+   - **Batsman Detail**: View specific batsman details including runs, balls, fours, sixes, and strike rate.
+   - **Bowlers Detail**: View specific bowler details including overs bowled, runs given, wickets taken, and economy rate.
+   - **Match Summary**: Display consolidated statistics of all batsmen and bowlers.
+   - **Record**: Show records such as highest runs, maximum fours and sixes by a batsman, and maximum wickets by a bowler.
+   - **Exit**: Terminate the program.
+
+## Example Usage
+
+1. Input data for batsmen and bowlers:
+   - Follow the on-screen prompts to enter the number of batsmen and their details.
+   - Enter the number of bowlers and input their respective details.
+
+2. Choose from the menu options:
+   - Select option 1 to view detailed statistics of a specific batsman.
+   - Select option 2 to view detailed statistics of a specific bowler.
+   - Select option 3 to view the match summary with consolidated statistics.
+   - Select option 4 to view records such as highest runs, most fours and sixes by a batsman, and most wickets by a bowler.
+   - Select option 5 to exit the program.
+
+3. Follow the on-screen prompts:
+   - Navigate through the program by following the on-screen instructions.
+   - Input choices and view outputs accordingly.
+
+## Getting Started
+
+To run the program locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/cricket-score-management.git
 
 
 
