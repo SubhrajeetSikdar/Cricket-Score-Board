@@ -54,11 +54,37 @@ This C program is designed to manage cricket match statistics, including details
 ## Getting Started
 
 To run the program locally:
-
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SubhrajeetSikdar/cricket-score-management.git ```bash
+   git clone https://github.com/SubhrajeetSikdar/cricket-score-management.git ```
 
+
+##Sample Output
+Enter the Batsman detail:
+Enter the number of batsman:
+2
+Enter name of batsman1:
+Player1
+Enter the number of ones scored by player1:
+10
+Enter the number of twos scored by player1:
+5
+Enter the number of threes scored by player1:
+2
+Enter the number of fours scored by player1:
+3
+Enter the number of sixes scored by player1:
+1
+Enter the balls played by the player1:
+50
+...
+Thank you all details are recorded
+Enter the choice:
+1) Batsman detail:
+2) Bowlers detail:
+3) Match summary:
+4) Record:
+5) Exit
 
 
 ##Contributing
