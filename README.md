@@ -57,12 +57,12 @@ To run the program locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SubhrajeetSikdar/cricket-score-management.git
+   git clone https://github.com/SubhrajeetSikdar/cricket-score-management.git ```bash
 
 
 
-
-
+##Contributing
+Contributions to improve the functionality or readability of the code are welcome. Please fork the repository and submit a pull request.
 
 
 ## License
