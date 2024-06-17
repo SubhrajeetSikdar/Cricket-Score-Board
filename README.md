@@ -25,5 +25,5 @@ This C program is designed to manage cricket match statistics, including details
 
 
 
-
+## License
 This format provides clear instructions on how to navigate and use your Cricket Score Management System, ensuring that users can easily understand and interact with your program. Adjust the placeholders like `[Subhrajeet Sikdar](https://github.com/SubhrajeetSikdar)` with actual details as needed.
