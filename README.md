@@ -18,9 +18,8 @@ This C program is designed to manage cricket match statistics, including details
 
    ```bash
    gcc cricket_score.c -o cricket_score
-# Cricket Score Management System
 
-This program allows users to input and manage cricket match statistics for batsmen and bowlers. It provides various functionalities to view individual player details, match summary, and records.
+
 
 ## Features
 
