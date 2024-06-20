@@ -10,6 +10,7 @@ This C program is designed to manage cricket match statistics, including details
 - **Records:** Display records such as highest runs scored by a batsman, maximum fours and sixes, and most wickets taken by a bowler.
 - **User Interface:** Simple console-based menu-driven interface for easy navigation.
 
+
 ## How to Use
 
 1. **Compile the Program:**
